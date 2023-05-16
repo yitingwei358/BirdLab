@@ -3,7 +3,8 @@ Demo: https://yitingwei358.github.io/BirdLab/#/
 <br><br>
 
 ## 專案簡介
-Bird Lab 為一個以 `Vue3 + Vite` 開發的寵物鸚鵡用品電商網站，具有完整的使用者前台與管理者後台。
+Bird Lab 是一個採用 `Vue3 + Vite` 技術開發的寵物鸚鵡用品電商網站，提供完整的使用者前台與管理者後台功能。<br>
+結合 Bootstrap 5 與 SCSS ，實現易於維護的響應式佈局和客製化樣式管理。
 <br><br>
 
 <kbd><img src="https://github.com/yitingwei358/BirdLab/assets/79511070/f77cd06e-2718-48a1-8f41-5574eb43204e" height="200px"/></kbd>
@@ -20,7 +21,7 @@ Bird Lab 為一個以 `Vue3 + Vite` 開發的寵物鸚鵡用品電商網站，�
 前台 - 
 * 提供寵物鸚鵡用品的線上展示與購買功能。
 * 具完整電商功能，包含加入購物車、調整數量、總價計算、優惠券套用與送出訂單等功能。
-* 具有 RWD 響應式設計，適合各種裝置。
+* RWD 響應式設計，適合各種裝置。
 
 後台 - 
 * 登入與驗證功能，保護資料安全。
@@ -38,12 +39,12 @@ Bird Lab 為一個以 `Vue3 + Vite` 開發的寵物鸚鵡用品電商網站，�
 * Bootstrap 5：響應式結構與樣式設計
 
 其它套件與工具 <br>
-* Chart.js: 以 Javascript 進行資料整理，並使用 chart.js 顯示數據圖表
+* Chart.js：以 Javascript 進行資料整理，並使用 chart.js 顯示數據圖表
 * CKEditor：編輯器套件
-* VeeValidate: 表單驗證套件
-* Swiper: 幻燈片效果
-* SweetAlert : 彈跳視窗
-<br>
+* VeeValidate：表單驗證套件
+* Swiper：幻燈片效果
+* SweetAlert：彈跳視窗
+<br><br>
 
 ## 安裝
 1. 下載專案到本機
