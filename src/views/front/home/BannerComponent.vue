@@ -29,14 +29,14 @@
             data-aos="flip-left"
             data-aos-duration="900"
           >
-            <div class="col-md-8">
+            <div class="col-lg-7 col-xl-8">
               <img
                 src="@/assets/img/section-article-birdpro.png"
                 alt="鳥類專家與金剛鸚鵡合照"
                 class="img-fluid"
               />
             </div>
-            <div class="col-md-4">
+            <div class="col-lg-5 col-xl-4">
               <div class="px-3 py-5 rounded text-center bg-white">
                 <h3 class="fs-1 fw-bold mb-3">大神來解惑</h3>
                 <h4 class="fs-3 fw-bold mb-4">
